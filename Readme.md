@@ -14,3 +14,10 @@ spec:
         - name: api
           image: memcached
 ```
+----
+How many replicas for api-deployment will get deployed in prod?
+
+2 (ya que no hay nada en los overlays )
+
+-----
+
